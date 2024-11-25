@@ -2,8 +2,8 @@
 
 # Introduction:
 
-  _This Java console application utilizes a heap structure (Priority Queue) to manage and organize meetings. Meetings are prioritized based on their start time, ensuring the earliest meetings are scheduled first.
-_
+_This Java console application utilizes a heap structure (Priority Queue) to manage and organize meetings. Meetings are prioritized based on their start time, ensuring the earliest meetings are scheduled first._
+
 # What It Can Do:
 1. **Add Meetings**: _Users can input meeting details, including a title, date, and start time._
 2. **View All Scheduled Meetings**: _Lists all meetings sorted by the nearest start time._
