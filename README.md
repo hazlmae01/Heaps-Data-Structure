@@ -1,4 +1,4 @@
-# Heaps-Data-Structure
+# Heaps_Console_Application
 
 # Introduction:
 
